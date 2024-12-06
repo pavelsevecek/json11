@@ -1,5 +1,6 @@
 # generated files
 test
+build
 libjson11.a
 json11.pc
 
